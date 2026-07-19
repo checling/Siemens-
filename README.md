@@ -19,7 +19,7 @@
 2. 下载最新的 `.zip` 压缩包（例如 `Siemens-NX-Models-v1.0.zip`）。
 3. 解压后即可直接使用。
 
-👉 **[点击这里跳转到下载页](https://github.com/chexling/Siemens-/releases)**
+👉 **[点击这里跳转到下载页]([https://github.com/chexling/Siemens-/releases](https://github.com/checling/Siemens-/releases/tag/v1.0))**
 
 ### 方式二：使用 Git 克隆（推荐开发者/协作者）
 如果你需要跟随版本更新，请使用 Git LFS 克隆：
