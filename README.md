@@ -20,4 +20,4 @@
 3. 解压后即可直接使用。
 4. 这个不会更新了，我再碰西门子我就是傻福
 
-👉 **[点击这里跳转到下载页]([https://github.com/chexling/Siemens-/releases](https://github.com/checling/Siemens-/releases/tag/v1.0))**
+👉 **[点击这里跳转到下载页](https://github.com/checling/Siemens-/releases/tag/v1.0))**
